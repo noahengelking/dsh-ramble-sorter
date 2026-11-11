@@ -1,5 +1,8 @@
 # Ramble sorter
 
+[![checks](https://github.com/noahengelking/dsh-ramble-sorter/actions/workflows/ci.yml/badge.svg)](https://github.com/noahengelking/dsh-ramble-sorter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 **Dictation in. One clean instruction out.**
 
 A [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) page that
